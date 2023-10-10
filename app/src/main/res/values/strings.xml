@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="total_amount">Total Amount:</string>
+    <string name="tax_amount">Tax Amount:</string>
+    <string name="total_amount_hint">Enter Total</string>
+    <string name="tax_amount_hint">Enter Tax</string>
+    <string name="tip_percentage">Tip%</string>
+    <string name="zero_percent_text">0%</string>
+    <string name="five_percent_text">5%</string>
+    <string name="ten_percent_text">10%</string>
+    <string name="twenty_percent_text">20%</string>
+    <string name="tip_amount_text">Tip Amount:</string>
+    <string name="grand_total_text">Grand Total:</string>
+    <string name="zero">0</string>
+    <string name="calculate_text">Calculate</string>
+    <string name="clear_text">Clear</string>
+
+</resources>
